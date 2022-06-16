@@ -107,9 +107,7 @@ textarea {
   text-align: center;
 }
 
-.button_submit .btn:hover {
-  opacity: 0.8;
-}
+
 
 .button_submit .btn {
   background: rgb(189, 120, 230);
@@ -120,8 +118,11 @@ textarea {
   color: #fff;
   border-radius: 4px;
 }
+.button_submit .btn:hover {
+  opacity: 0.8;
+}
 
-footer {
+.footer {
   display: inline-block;
   position: relative;
   width: 100%;
